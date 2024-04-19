@@ -1,3 +1,4 @@
+
 Dataset Link :- https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 1)  First  Create virtualenvironment with following COMMAND:-
@@ -36,5 +37,6 @@ Dataset Link :- https://www.kaggle.com/mlg-ulb/creditcardfraud
     and migrate it to database
 
         python manage.py migrate
+
 
 
